@@ -1,9 +1,9 @@
-## 🍻🍻 ПОДЕРЖИ МОЁ ПИВО 🍻🍻
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PivnayaGODZILLA&show_icons=true&theme=shadow_red)
+## 🍻🍻 !!!ПОДЕРЖИТЕ МОЁ ПИВО!!! 🍻🍻
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PivnayaGODZILLA&show_icons=true&theme=maroongold&bg_color=00000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PivnayaGODZILLA&layout=compact&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PivnayaGODZILLA&layout=compact&theme=maroongold&bg_color=00000000)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PivnayaGODZILLA&repo=PivnayaGODZILLA&theme=shadow_red&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PivnayaGODZILLA&repo=PivnayaGODZILLA&theme=maroongold&show_owner=true&bg_color=00000000)
 <!--
 **PivnayaGODZILLA/PivnayaGODZILLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
