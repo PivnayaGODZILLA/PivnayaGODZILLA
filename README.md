@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PivnayaGODZILLA&show_icons=true&theme=shadow_red&&&&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PivnayaGODZILLA&show_icons=true&theme=shadow_red)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PivnayaGODZILLA&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
