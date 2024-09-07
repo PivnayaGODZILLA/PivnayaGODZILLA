@@ -1,8 +1,9 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PivnayaGODZILLA&show_icons=true&theme=shadow_red)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PivnayaGODZILLA&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PivnayaGODZILLA&layout=compact&theme=shadow_red)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PivnayaGODZILLA&repo=PivnayaGODZILLA&theme=shadow_red&show_owner=true)
 <!--
 **PivnayaGODZILLA/PivnayaGODZILLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
