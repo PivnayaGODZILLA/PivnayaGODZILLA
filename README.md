@@ -5,7 +5,7 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PivnayaGODZILLA&repo=PivnayaGODZILLA&theme=maroongold&show_owner=true&bg_color=00000000)
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/kQQWPacknqsAAAAd/homelander-homelander-smile.gif">
+<img align="right" alt="Coding" width="400" src="[https://media1.tenor.com/m/kQQWPacknqsAAAAd/homelander-homelander-smile.gif](https://i.imgur.com/03VNkTk.mp4)">
 <!--
 **PivnayaGODZILLA/PivnayaGODZILLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
